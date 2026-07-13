@@ -33,8 +33,9 @@ Academic Positions
   
 Research Interests
 =====
+* Protein language models and allosteric communication
 * Structural bioinformatics and protein modeling
-* Protein design and Protein Language Models
+* Biological information theory and non-equilibrium thermodynamics
 * Systems biology and network medicine
 * Drug discovery and polypharmacology
 * Disease mechanisms and therapeutic targets
@@ -45,15 +46,16 @@ Research Interests
 
 Research Highlights
 ======
-* Published 33 peer-reviewed articles, with 21 in Q1 journals
-* H-index: 15 with 538 total citations (average 16.3 citations per paper)
-* Principal Investigator on 2 competitive research projects
+* 30 peer-reviewed journal articles (ORCID-verified), plus 1 book chapter and 1 conference paper
+* H-index: 16, 791 total citations (Google Scholar)
+* Principal Investigator on 3 competitive research projects
 * Participated in 21 publicly funded research projects
 * Two international patents
 * Supervised 2 PhD theses and multiple master's students
 
 Selected Funding
 ====
+* Principal Investigator, Junta de Andalucía Línea 1 2026 — *ALEPH: Allosteric Language Encoding — Protein Hierarchy* (submitted April 2026, in review; up to €120,000, 30–36 months)
 * Principal Investigator, EU Marie Curie Fellowship (2014-2016)
 * Principal Investigator, FEDER Andalucía Project on breast cancer metastasis markers (2020-2022)
 * Co-Investigator, Multiple national and international grants in systems biology and rare diseases
@@ -62,12 +64,6 @@ Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching

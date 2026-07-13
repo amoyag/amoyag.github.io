@@ -11,11 +11,11 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Aurelio Moya García"
 title_separator          : "-"
-name                     : &name "Aurelio Moya García. Personal Site"
-description              : &description "personal description"
+name                     : &name "Aurelio Moya García"
+description              : &description "Personal academic site of Aurelio Moya García — Universidad de Málaga. Biochemistry and biophysics teaching, protein allostery, systems pharmacology, and protein language models."
 url                      : https://amoyag.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "amoyag/amoyag.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Aurelio Moya García"
   pronouns         : # example: "she/her"  
-  bio              : "My research combines structural bioinformatics, systems biology, network analysis and AI to to understand how proteins work.
-  Former Marie Curie Fellow at University College London, I currently lead research projects in systems pharmacology and teach at Universidad de Málaga."
+  bio              : "My research asks whether protein language models implicitly encode the physics of allosteric communication, connecting structural bioinformatics, systems pharmacology and information theory.
+  Former Marie Curie Fellow at University College London; I teach Biochemistry and Biophysics at Universidad de Málaga."
   location         : "Málaga. Spain"
   employer         : "Universidad de Málaga"
   uri              : www.uma.es
@@ -34,11 +34,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=uCgFiLEAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0002-0567-0949"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Moya-Garcia+AA%5BAuthor%5D"
   researchgate     : # URL
   scopus           : https://www.scopus.com/authid/detail.uri?authorId=6506534500
 
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
