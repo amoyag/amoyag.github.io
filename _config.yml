@@ -22,7 +22,7 @@ repository               : "amoyag/amoyag.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-photo.jpg"
   name             : "Aurelio Moya García"
   pronouns         : # example: "she/her"  
   bio              : "My research asks whether protein language models implicitly encode the physics of allosteric communication, connecting structural bioinformatics, systems pharmacology and information theory.
