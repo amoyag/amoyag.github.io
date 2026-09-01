@@ -20,18 +20,18 @@
 <!-- Páginas de contenido sin barra lateral: el tema deja el hueco de la barra
      vacío y el texto descolocado a la derecha. Cuando sidebar.html no pinta
      nada, .page es el primer hijo de #main, y solo entonces se centra la
-     columna y se le pone una medida de lectura cómoda. -->
+     columna y se le pone una medida de lectura cómoda. Sin media query a
+     propósito: la rejilla del tema entra por debajo de 1000px y una consulta
+     mal puesta deja el texto descolocado justo en los anchos intermedios. -->
 <style>
-  @media (min-width: 80em) {
-    #main > .page:first-child {
-      float: none;
-      width: 100%;
-      max-width: 54em;
-      margin-left: auto;
-      margin-right: auto;
-      padding-left: 0;
-      padding-right: 0;
-    }
+  #main > .page:first-child {
+    float: none;
+    width: 100%;
+    max-width: 54em;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1em;
+    padding-right: 1em;
   }
   /* Las tablas anchas (rúbricas) no rompen la columna: se desplazan solas. */
   #main > .page:first-child .page__content table { display: block; overflow-x: auto; }
