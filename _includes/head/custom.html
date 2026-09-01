@@ -17,4 +17,24 @@
 <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
+<!-- Páginas de contenido sin barra lateral: el tema deja el hueco de la barra
+     vacío y el texto descolocado a la derecha. Cuando sidebar.html no pinta
+     nada, .page es el primer hijo de #main, y solo entonces se centra la
+     columna y se le pone una medida de lectura cómoda. -->
+<style>
+  @media (min-width: 80em) {
+    #main > .page:first-child {
+      float: none;
+      width: 100%;
+      max-width: 54em;
+      margin-left: auto;
+      margin-right: auto;
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+  /* Las tablas anchas (rúbricas) no rompen la columna: se desplazan solas. */
+  #main > .page:first-child .page__content table { display: block; overflow-x: auto; }
+</style>
+
 <!-- end custom head snippets -->
