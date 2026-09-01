@@ -1,6 +1,5 @@
 ---
 title: "EMM — Guía de evaluación y rúbricas"
-collection: teaching
 permalink: /teaching/emm-guia-evaluacion
 ---
 Curso 2026-27 · Grado en Bioquímica · 2.º curso

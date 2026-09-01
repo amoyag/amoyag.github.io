@@ -1,6 +1,5 @@
 ---
 title: "EMM — Análisis de caso estructural"
-collection: teaching
 permalink: /teaching/emm-caso-estructural
 ---
 Estructura de Macromoléculas · 2026-27 · **5 % de la nota final**

@@ -1,6 +1,5 @@
 ---
 title: "EMM — Macromoléculas del caso estructural"
-collection: teaching
 permalink: /teaching/emm-moleculas
 ---
 Son 97 para ~75 estudiantes: el excedente permite que elijan y que no haya dos
