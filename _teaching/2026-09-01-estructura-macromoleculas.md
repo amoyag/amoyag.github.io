@@ -124,4 +124,4 @@ Una proteína reguladora tiene que encontrar su sitio entre millones de posicion
 
 ---
 
-<small>Materiales del curso 2026-27. Última actualización: 01/09/2026.</small>
+<small>Materiales del curso 2026-27. Última actualización: 03/09/2026.</small>
