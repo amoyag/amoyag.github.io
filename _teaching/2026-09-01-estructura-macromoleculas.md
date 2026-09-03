@@ -23,6 +23,7 @@ Examen final 70 %, informes de prácticas 15 %, cuestionarios de evaluación con
 - [Guía de evaluación y rúbricas](/teaching/emm-guia-evaluacion)
 - [Ficha del análisis de caso estructural](/teaching/emm-caso-estructural)
 - [Las 97 macromoléculas entre las que elegir](/teaching/emm-moleculas)
+- [Cómo funcionan los cuestionarios con puntuación por certeza](/teaching/emm-certeza)
 
 ## Temario
 
