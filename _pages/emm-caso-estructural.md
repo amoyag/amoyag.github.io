@@ -7,9 +7,9 @@ Estructura de Macromoléculas · 2026-27 · **5 % de la nota final**
 Rellenad los ocho campos y entregad por el campus virtual. **Extensión total: una
 o dos páginas.** No es un trabajo largo; es una ficha densa.
 
-La rúbrica con la que se corrige está publicada en la guía de evaluación desde el
-primer día. Los campos **2, 5 y 7** son los que distinguen una ficha trabajada de
-una copiada del primer resultado de búsqueda.
+La rúbrica con la que se corrige está publicada en la guía de evaluación. Los
+campos **2, 5 y 7** son los que distinguen una ficha trabajada de una copiada
+del primer resultado de búsqueda.
 
 Recordad que en el examen de enero hay una pregunta sobre vuestra molécula que
 vale el 15 % del examen. La ficha se rellena en una tarde; esa pregunta, no.
