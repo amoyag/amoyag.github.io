@@ -2,6 +2,10 @@
 title: "EMM — Guía de evaluación y rúbricas"
 permalink: /teaching/emm-guia-evaluacion
 ---
+
+<!-- GENERADO por campus/publicar_web.py desde campus/guia_evaluacion_estudiantes.md
+     NO EDITAR AQUI: la proxima publicacion lo sobrescribe y el
+     cambio se pierde sin dejar rastro. Editar el fichero de arriba. -->
 Curso 2026-27 · Grado en Bioquímica · 2.º curso
 
 Este documento está disponible desde el primer día y no cambia durante el curso.

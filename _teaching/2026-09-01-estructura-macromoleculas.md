@@ -8,6 +8,11 @@ date: 2026-09-01
 location: "Málaga, España"
 ---
 
+<!-- GENERADO por campus/publicar_web.py desde
+     campus/descripciones_temas.md y notes/mapa_sesiones_26-27.md
+     NO EDITAR AQUI: la proxima publicacion lo sobrescribe y el
+     cambio se pierde sin dejar rastro. -->
+
 Curso **2026-27**. Análisis teórico y experimental de las propiedades físicas y químicas de las macromoléculas biológicas, proteínas y ácidos nucleicos, en tres bloques: cómo se determina una estructura; estructura, estabilidad e interacciones de las proteínas; y ácidos nucleicos y su reconocimiento.
 
 Las clases de grupo grande no son expositivas: cada sesión abre con algo que han producido los estudiantes —un cuestionario previo a la lectura, la votación de la sesión anterior— y se organiza en torno a una pregunta que no se responde hasta el final. Las hojas de actividades de cada sesión están abajo, y se publican a medida que avanza el curso.
@@ -125,4 +130,4 @@ Una proteína reguladora tiene que encontrar su sitio entre millones de posicion
 
 ---
 
-<small>Materiales del curso 2026-27. Última actualización: 03/09/2026.</small>
+<small>Materiales del curso 2026-27. Última actualización: 04/09/2026.</small>

@@ -2,6 +2,10 @@
 title: "EMM — Análisis de caso estructural"
 permalink: /teaching/emm-caso-estructural
 ---
+
+<!-- GENERADO por campus/publicar_web.py desde campus/ficha_caso_estructural.md
+     NO EDITAR AQUI: la proxima publicacion lo sobrescribe y el
+     cambio se pierde sin dejar rastro. Editar el fichero de arriba. -->
 Estructura de Macromoléculas · 2026-27 · **5 % de la nota final**
 
 Rellenad los ocho campos y entregad por el campus virtual. **Extensión total: una

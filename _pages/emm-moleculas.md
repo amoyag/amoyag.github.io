@@ -2,6 +2,10 @@
 title: "EMM — Macromoléculas del caso estructural"
 permalink: /teaching/emm-moleculas
 ---
+
+<!-- GENERADO por campus/publicar_web.py desde campus/moleculas_caso_estructural.md
+     NO EDITAR AQUI: la proxima publicacion lo sobrescribe y el
+     cambio se pierde sin dejar rastro. Editar el fichero de arriba. -->
 Son 97 para ~75 estudiantes: el excedente permite que elijan y que no haya dos
 fichas sobre la misma molécula. Reparto por sorteo o por elección con fecha
 límite, a criterio del coordinador.
