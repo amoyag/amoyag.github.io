@@ -13,7 +13,7 @@ share: false
 
 Curso **2026–27**. Clases expositivas abiertas y trabajo práctico de diseño de proteínas. Esta página reúne el encargo del proyecto, las instrucciones de trabajo y las plantillas. Las entregas se realizan en el **Campus Virtual (CV)**.
 
-Actualización: **261004**. Las fechas se expresan como año, mes y día (YYMMDD); por ejemplo, 261113 significa 13 de noviembre de 2026.
+Actualización: **261008**. Las fechas se expresan como año, mes y día (YYMMDD); por ejemplo, 261113 significa 13 de noviembre de 2026.
 
 **Contenido de esta página**
 
@@ -63,6 +63,22 @@ Los puntos de esta tabla son puntos sobre los 100 de la asignatura. Se mantienen
 | Informe de progreso 2, INF2 | 261204 | 8 | 7 |
 | Defensa oral | 261217–261218 | 10 | 20 |
 
+**Calendario del trabajo de proyecto.** Las fechas de corte de TE1–TE3 indican cuándo debe estar reunida la evidencia; esos tramos no tienen una entrega independiente en CV. Las horas de cierre de las actividades de CV se consultan en cada tarea.
+
+| Fecha | Hito o entrega | Qué se presenta o conserva | Canal |
+|---|---|---|---|
+| 261019 | Propuesta de diseño y exposición (S17) | Documento de cuatro páginas más figuras; exposición de equipo | Presentación en clase; entrega del documento en CV pendiente de concretar |
+| 261020 | Objeción a otra propuesta y réplica (S18) | Plantilla de objeción del equipo emisor y respuesta oral | Actividad de S18; registro en CV por concretar |
+| 261021 | Publicación de TE1–TE3 e informes | Enunciados, criterios de terminado y rúbricas | CV |
+| 261112 | Corte de TE1 | Diez candidatos, panel prefiltro, descartes y reserva para PR4 | Evidencia en Drive y bitácora; se documenta en INF1 |
+| 261113 | INF1 de equipo y anexo individual | PDF de equipo y XLSX de la bitácora; un PDF de anexo por estudiante | Actividades separadas de equipo e individual en CV |
+| 261120 | PR4 | Papeletas individuales previas al filtro y resultados del control | Práctica presencial; canal de entrega según su convocatoria |
+| 261201 | Corte de TE2 | Rediseño, autoconsistencia y reserva para PR5 | Evidencia en Drive y bitácora; se documenta en INF2 |
+| 261204 | INF2 de equipo y anexo individual | PDF de equipo y XLSX de la bitácora; un PDF de anexo por estudiante | Actividades separadas de equipo e individual en CV |
+| 261210 | Corte de TE3 | Caracterización y propuesta de los tres candidatos para la defensa | Evidencia en Drive y bitácora; se presenta en PR5 y la defensa |
+| 261211 | PR5 | Control de candidatos reservados y congelación de los tres que se defenderán | Práctica presencial; canal de entrega según su convocatoria |
+| 261217–261218 | Defensa oral | Selección final, evidencia, límites y respuestas individuales | Presentación en clase |
+
 La **propuesta** presenta el objetivo, los residuos y restricciones, la estrategia, el criterio de éxito y un modo de fallo que ese criterio podría pasar por alto. **INF1** documenta la selección inicial, el panel anterior al filtro y los descartes. **INF2** recoge el rediseño, los resultados del filtro, las decisiones posteriores y la justificación experimental. La **defensa** presenta la selección final y permite comprobar el razonamiento de cada integrante.
 
 Los talleres individuales TI1 y TI2 aportan dos puntos cada uno dentro de los siete puntos individuales de INF1; no se suman otra vez. TI3 es formativo. La nota individual depende de las evidencias y respuestas de cada persona. El detalle se recoge en la guía de evaluación del Campus.
@@ -96,7 +112,7 @@ Los informes se redactan sobre la evidencia conservada. Las plantillas mantienen
 
 **INF1 de equipo** documenta el recorrido hasta los diez candidatos, interpreta el panel prefiltro, justifica los descartes e identifica la reserva para PR4. **INF2 de equipo** explica el uso de los resultados de PR4, la autoconsistencia con su convención, las decisiones posteriores y las tres cuestiones experimentales. Cada informe incluye una tabla breve de contribuciones: nombre, aportación concreta y evidencia. No se asignan porcentajes de participación.
 
-**El anexo individual se escribe y entrega por separado.** Puede tratar el mismo candidato que otro integrante, pero debe permitir reconocer la operación y el razonamiento propios. Una afirmación como «ayudé con los cálculos» se concreta indicando qué entrada se utilizó, qué se comprobó, dónde está el resultado y cómo se interpretó.
+**El anexo individual se escribe y entrega por separado.** Cada estudiante entrega su PDF de anexo individual en una actividad individual de CV **el mismo día que el equipo entrega el informe correspondiente**: 261113 para INF1 y 261204 para INF2. Puede tratar el mismo candidato que otro integrante, pero debe permitir reconocer la operación y el razonamiento propios. Una afirmación como «ayudé con los cálculos» se concreta indicando qué entrada se utilizó, qué se comprobó, dónde está el resultado y cómo se interpretó.
 
 | Anexo | Evidencia individual que se solicita | Puntos |
 |---|---|---:|
