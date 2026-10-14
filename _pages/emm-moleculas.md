@@ -6,7 +6,7 @@ permalink: /teaching/emm-moleculas
 <!-- GENERADO por campus/publicar_web.py desde campus/moleculas_caso_estructural.md
      NO EDITAR AQUI: la proxima publicacion lo sobrescribe y el
      cambio se pierde sin dejar rastro. Editar el fichero de arriba. -->
-La lista contiene **97 opciones**. Elegid tres por orden de preferencia y enviadlas a Aurelio por mensaje privado de Campus Virtual hasta el **20 de octubre de 2026 a las 23:59**. Incluid nombre de la molécula y código PDB. Las coincidencias se resuelven por sorteo en rondas de preferencias, no por orden de llegada. La asignación requiere confirmación; esta página no es un registro de reservas en tiempo real.
+La lista contiene **97 opciones**. Elegid tres por orden de preferencia y enviadlas por email a amoyag[en]uma.es hasta el **20 de octubre de 2026 a las 23:59**. Incluid nombre de la molécula y código PDB. No uséis el correo del Campus Virtual. Las coincidencias se resuelven por sorteo en rondas de preferencias, no por orden de llegada. La asignación requiere confirmación; esta página no es un registro de reservas en tiempo real.
 
 [Instrucciones completas y paquete del caso](/teaching/emm-caso-estructural).
 

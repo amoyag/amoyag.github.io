@@ -33,4 +33,4 @@ Uso de IA (si lo hubo):
 Integra una o dos vistas pequeñas solo si ayudan; identifica entrada, cadenas
  y residuos. Máximo dos páginas con figuras y referencias; sin portada ni anexos.
 Exporta a PDF: Apellidos_Nombre_caso.pdf.
-Entrega: Campus Virtual, 10/12/2026 a las 23:59 (Madrid).
+Entrega: Campus Virtual, 10/12/2026 a las 23:30 (Madrid).

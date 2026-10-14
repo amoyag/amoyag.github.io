@@ -14,7 +14,7 @@ Curso **2026–27**. Estructura, propiedades y función de proteínas y ácidos 
 
 ## Caso estructural: comenzamos el 14 de octubre
 
-Trabajo individual durante el bloque II. Elegid tres moléculas por orden de preferencia y enviadlas a Aurelio por mensaje privado de Campus Virtual hasta el **20 de octubre a las 23:59**. Las coincidencias se resuelven por sorteo; recibiréis confirmación de la asignación. La ficha final, de una o dos páginas, se entrega el **10 de diciembre a las 23:59**.
+Trabajo individual durante el bloque II. Elegid tres moléculas por orden de preferencia y enviadlas por email a amoyag[en]uma.es hasta el **20 de octubre a las 23:59**. No uséis el correo del Campus Virtual. Las coincidencias se resuelven por sorteo; recibiréis confirmación de la asignación. La ficha final, de una o dos páginas, se entrega el **10 de diciembre a las 23:30**.
 
 - [Instrucciones, calendario y rúbrica del caso](/teaching/emm-caso-estructural)
 - [Lista de moléculas para elegir](/teaching/emm-moleculas)

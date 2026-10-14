@@ -21,7 +21,7 @@ La actividad de estudio tiene intentos ilimitados y permanece disponible hasta e
 
 ## Caso estructural
 
-Trabajo individual desde el 14 de octubre hasta el **10 de diciembre a las 23:59**. Elegís tres preferencias hasta el 20 de octubre a las 23:59; la asignación se confirma después de resolver coincidencias. Entregáis un PDF de una o dos páginas con ocho campos. La dedicación prevista es de 20 horas distribuidas durante el bloque.
+Trabajo individual desde el 14 de octubre hasta el **10 de diciembre a las 23:30**. Enviáis tres preferencias por email a amoyag[en]uma.es hasta el 20 de octubre a las 23:59, sin usar el correo del Campus Virtual; la asignación se confirma después de resolver coincidencias. Entregáis un PDF de una o dos páginas con ocho campos. La dedicación prevista es de 20 horas distribuidas durante el bloque.
 
 [Encargo, elección y paquete de trabajo](https://amoyag.github.io/teaching/emm-caso-estructural) · [Moléculas disponibles para solicitar](https://amoyag.github.io/teaching/emm-moleculas).
 

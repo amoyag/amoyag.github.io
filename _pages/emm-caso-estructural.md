@@ -8,7 +8,7 @@ permalink: /teaching/emm-caso-estructural
      cambio se pierde sin dejar rastro. Editar el fichero de arriba. -->
 Estructura de Macromoléculas · 2026–27 · Trabajo **individual** · **5 % de la nota final**
 
-Vais a estudiar una macromolécula elegida por vosotros y a aplicar a ella lo que veamos entre T7 y T12: arquitectura, ensamblado, estabilidad, plegamiento y reconocimiento. El resultado será una ficha de **una o dos páginas**, incluidos texto, figuras y referencias. El trabajo comienza el **14 de octubre** y se entrega el **10 de diciembre de 2026, a las 23:59**, por Campus Virtual (hora de Madrid).
+Vais a estudiar una macromolécula elegida por vosotros y a aplicar a ella lo que veamos entre T7 y T12: arquitectura, ensamblado, estabilidad, plegamiento y reconocimiento. El resultado será una ficha de **una o dos páginas**, incluidos texto, figuras y referencias. El trabajo comienza el **14 de octubre** y tiene límite de entrega el **10 de diciembre de 2026, a las 23:30**, por Campus Virtual.
 
 [Descargar el paquete del caso (ZIP)](/files/emm-26-27/caso/EMM_caso_estructural.zip) · [Plantilla editable (texto)](/files/emm-26-27/caso/plantilla_caso.txt) · [Lista de moléculas](/teaching/emm-moleculas)
 
@@ -16,7 +16,7 @@ Vais a estudiar una macromolécula elegida por vosotros y a aplicar a ella lo qu
 
 1. Explorad la lista y seleccionad **tres moléculas diferentes**, por orden de preferencia. Los apartados os ayudan a escoger por interés: enzimas, membrana, plegamiento, reconocimiento…
 2. Abrid sus entradas del PDB. Comprobad que podéis localizar el artículo principal y reconocer al menos qué proteína es, qué función tiene y qué se ha resuelto. No hace falta entenderla entera para elegirla.
-3. Enviad a Aurelio **un mensaje privado por Campus Virtual antes del 20 de octubre a las 23:59**, con asunto «EMM — elección de caso», vuestro nombre y las tres opciones (nombre y código PDB). Añadid una frase sobre vuestro interés por la primera. Podéis preparar la elección desde la clase del 14 de octubre.
+3. Enviad a amoyag[en]uma.es **un email antes del 20 de octubre a las 23:59**, con asunto «EMM — elección de caso». En el cuerpo del e-mail vuestro nombre y las tres opciones (nombre y código PDB). Añadid una frase sobre vuestro interés por la primera. Podéis preparar la elección desde la clase del 14 de octubre. No uséis la opción de correo electrónico del Campus Virtual.
 4. Cada molécula tendrá un estudiante. Si varios solicitan la misma primera opción, se sorteará entre ellos; quienes no la obtengan pasarán a su siguiente opción disponible. Se resolverán las preferencias por rondas, sin dar prioridad por enviar antes dentro del plazo. Si se agotan vuestras tres opciones, recibiréis las alternativas disponibles.
 5. Aurelio confirmará la asignación por Campus Virtual. **Enviar preferencias no equivale a tener la molécula asignada.** Podéis explorar vuestra primera opción mientras tanto, pero esperad la confirmación antes de invertir en el análisis detallado. Quien no envíe preferencias elegirá entre las opciones restantes con el profesor.
 
