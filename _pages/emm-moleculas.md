@@ -6,13 +6,11 @@ permalink: /teaching/emm-moleculas
 <!-- GENERADO por campus/publicar_web.py desde campus/moleculas_caso_estructural.md
      NO EDITAR AQUI: la proxima publicacion lo sobrescribe y el
      cambio se pierde sin dejar rastro. Editar el fichero de arriba. -->
-Son 97 para ~75 estudiantes: el excedente permite que elijan y que no haya dos
-fichas sobre la misma molécula. Reparto por sorteo o por elección con fecha
-límite, a criterio del coordinador.
+La lista contiene **97 opciones**. Elegid tres por orden de preferencia y enviadlas a Aurelio por mensaje privado de Campus Virtual hasta el **20 de octubre de 2026 a las 23:59**. Incluid nombre de la molécula y código PDB. Las coincidencias se resuelven por sorteo en rondas de preferencias, no por orden de llegada. La asignación requiere confirmación; esta página no es un registro de reservas en tiempo real.
 
-**Tres moléculas están excluidas a propósito**: hemoglobina, ribosoma y RNasa A.
-Son el hilo conductor del curso y se trabajan en clase; ponerlas aquí
-convertiría la ficha en un resumen de apuntes.
+[Instrucciones completas y paquete del caso](/teaching/emm-caso-estructural).
+
+**Hemoglobina, ribosoma y RNasa A** quedan reservados para los ejemplos de clase. La entrada propuesta sirve de punto de partida: el profesor puede acotar un dominio o ajustar la estructura de referencia para que la dificultad sea comparable. Comprobad el acceso a la publicación antes de confirmar vuestra elección y comunicad cualquier dificultad.
 
 Leyenda: **cad** = cadenas polipeptídicas depositadas · **lig** = entidades no
 poliméricas (ligandos, cofactores, iones) · resolución en Å, vacía si el método
@@ -161,18 +159,8 @@ no la define.
 
 **Total: 97 entradas.**
 
-## Notas de reparto
+## Al explorar una opción
 
-- Los grupos no son estancos: una ficha sobre 1IEP (ABL con imatinib) toca
-  reconocimiento molecular y también estabilidad conformacional. El grupo
-  indica dónde está el centro de gravedad, no un límite.
-- **Cinco entradas no son de rayos X**: 2BG9 y 1JFF (microscopía electrónica),
-  1TIT, 1QM0 y 1VII (RMN). Están puestas a propósito: quien las reciba tiene
-  que darse cuenta de que el campo «resolución» no aplica igual, y eso es
-  exactamente RAE3. No retirarlas para «homogeneizar».
-- **Entradas con muchas cadenas** (1RYP con 28, 1OCC con 26, 1AON con 21,
-  3GHG con 20, 1S5L con 38 en el fichero completo) son más trabajo de
-  descripción. Repartirlas entre estudiantes distintos y no concentrarlas.
-- Varias son estructuras antiguas a resolución modesta (2BG9 a 4 Å, 1S5L a
-  3,5 Å). Es material bueno: obliga a decir qué se puede afirmar y qué no,
-  que es la pregunta del curso entero.
+Los apartados se solapan: una molécula puede servir para estudiar varios temas. En complejos grandes, acordad con el profesor qué dominio o interfaz vais a analizar. No hace falta describir cada cadena del complejo.
+
+Las entradas de RMN y de microscopía electrónica requieren interpretar la calidad del modelo según su método; no trasladéis automáticamente los indicadores de rayos X. La cifra de resolución nunca sustituye la inspección de la región sobre la que vais a razonar.

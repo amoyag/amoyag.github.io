@@ -6,31 +6,64 @@ permalink: /teaching/emm-caso-estructural
 <!-- GENERADO por campus/publicar_web.py desde campus/ficha_caso_estructural.md
      NO EDITAR AQUI: la proxima publicacion lo sobrescribe y el
      cambio se pierde sin dejar rastro. Editar el fichero de arriba. -->
-Estructura de Macromoléculas · 2026-27 · **5 % de la nota final**
+Estructura de Macromoléculas · 2026–27 · Trabajo **individual** · **5 % de la nota final**
 
-Rellenad los ocho campos y entregad por el campus virtual. **Extensión total: una
-o dos páginas.** No es un trabajo largo; es una ficha densa.
+Vais a estudiar una macromolécula elegida por vosotros y a aplicar a ella lo que veamos entre T7 y T12: arquitectura, ensamblado, estabilidad, plegamiento y reconocimiento. El resultado será una ficha de **una o dos páginas**, incluidos texto, figuras y referencias. El trabajo comienza el **14 de octubre** y se entrega el **10 de diciembre de 2026, a las 23:59**, por Campus Virtual (hora de Madrid).
 
-La rúbrica con la que se corrige está publicada en la guía de evaluación. Los
-campos **2, 5 y 7** son los que distinguen una ficha trabajada de una copiada
-del primer resultado de búsqueda.
+[Descargar el paquete del caso (ZIP)](/files/emm-26-27/caso/EMM_caso_estructural.zip) · [Plantilla editable (texto)](/files/emm-26-27/caso/plantilla_caso.txt) · [Lista de moléculas](/teaching/emm-moleculas)
 
-Recordad que en el examen de enero hay una pregunta sobre vuestra molécula que
-vale el 15 % del examen. La ficha se rellena en una tarde; esa pregunta, no.
+## Cómo elegir vuestra molécula
 
----
+1. Explorad la lista y seleccionad **tres moléculas diferentes**, por orden de preferencia. Los apartados os ayudan a escoger por interés: enzimas, membrana, plegamiento, reconocimiento…
+2. Abrid sus entradas del PDB. Comprobad que podéis localizar el artículo principal y reconocer al menos qué proteína es, qué función tiene y qué se ha resuelto. No hace falta entenderla entera para elegirla.
+3. Enviad a Aurelio **un mensaje privado por Campus Virtual antes del 20 de octubre a las 23:59**, con asunto «EMM — elección de caso», vuestro nombre y las tres opciones (nombre y código PDB). Añadid una frase sobre vuestro interés por la primera. Podéis preparar la elección desde la clase del 14 de octubre.
+4. Cada molécula tendrá un estudiante. Si varios solicitan la misma primera opción, se sorteará entre ellos; quienes no la obtengan pasarán a su siguiente opción disponible. Se resolverán las preferencias por rondas, sin dar prioridad por enviar antes dentro del plazo. Si se agotan vuestras tres opciones, recibiréis las alternativas disponibles.
+5. Aurelio confirmará la asignación por Campus Virtual. **Enviar preferencias no equivale a tener la molécula asignada.** Podéis explorar vuestra primera opción mientras tanto, pero esperad la confirmación antes de invertir en el análisis detallado. Quien no envíe preferencias elegirá entre las opciones restantes con el profesor.
 
-## Vuestros datos
+La lista es un punto de partida. Podéis proponer otra proteína acompañada de una entrada experimental y una referencia accesible; requiere confirmación del profesor. Hemoglobina, ribosoma y RNasa A quedan reservados para los ejemplos de clase. Si un caso resulta desproporcionadamente difícil o su artículo no es accesible, pedid un ajuste o un cambio: no se evalúa la complejidad de la molécula.
+
+## Qué hacer desde el primer día
+
+- Descargad y abrid la plantilla en vuestro editor. Conservad un cuaderno personal con enlaces, observaciones y preguntas; solo entregaréis la ficha final.
+- Abrid la entrada en RCSB PDB y localizad método, calidad del modelo, entidades, ensamblado biológico y publicación principal. Guardad el enlace y la fecha de consulta.
+- Utilizad el visor 3D de la propia entrada: identificad cadenas, representación de cintas y ligandos. Para empezar no es necesario instalar programas ni predecir una estructura nueva.
+- Leed primero el resumen y las figuras pertinentes del artículo. Después, los resultados y métodos que sustenten vuestra explicación. Si solo habéis podido leer el resumen, no lo presentéis como lectura del artículo completo; consultad el acceso por la biblioteca o al profesor.
+- Anotad una observación concreta y una pregunta que todavía no sepáis responder. Volveréis sobre ellas durante el bloque.
+
+## Cómo repartir el trabajo
+
+Presupuesto orientativo: **20 horas de trabajo autónomo en total**, distribuidas durante el bloque; no veinte horas de redacción ni una nueva entrega cada semana.
+
+| Cuándo | Avance esperado |
+|---|---|
+| 14–20 octubre · T7–T8 | Elección, estructura de referencia, método y primera exploración. |
+| Hasta el 26 octubre · T9 | Cadenas frente a ensamblado, estructura secundaria, dominios y ligandos. Traed una vista y una duda para una revisión breve, sin nota adicional. |
+| 3–9 noviembre · T10 | Qué información hay sobre estabilidad y qué no puede deducirse de las coordenadas. |
+| 10–18 noviembre · T11 | Qué se sabe del plegamiento o agregación; distinguir evidencia de hipótesis. |
+| 19 noviembre–1 diciembre · T12 | Sitio o interfaz, relación estructura–función y una pregunta que requiera otra medida. |
+| 2–10 diciembre | Selección de evidencia, redacción y revisión de los ocho campos. |
+
+No se exige encontrar una curva de estabilidad o una ruta de plegamiento publicada para todas las proteínas. Cuando falte información, reconoced el límite y explicad qué dato haría falta. Las conclusiones de vuestra ficha deben estar respaldadas por la estructura o por una fuente identificada.
+
+## Qué entregar y cómo se corrige
+
+Un **PDF individual de una o dos páginas**, con nombre, molécula, ocho campos y referencias. Podéis integrar una o dos vistas pequeñas si ayudan a entender el sitio o la arquitectura: identificad entrada, cadenas y residuos señalados. No añadáis portada ni anexos. Nombre del archivo: `Apellidos_Nombre_caso.pdf`.
+
+Cada campo se puntúa **0, 1 o 2**: ausente o incorrecto; presente pero incompleto o impreciso; completo y correcto con los datos solicitados. Total sobre 16, convertido al **5 % de la asignatura**. La longitud o la sofisticación gráfica no añaden puntos. Los campos 2, 5 y 7 exigen especial atención a evidencia y límites.
+
+El examen incluirá también una aplicación a vuestra molécula: **15 % del examen**, equivalente al 10,5 % de la nota final. La ficha y esa respuesta se califican por separado. El cuaderno personal y las revisiones intermedias no llevan nota adicional.
+
+Podéis utilizar IA como ayuda, pero verificad cada dato y referencia y declarad brevemente para qué la habéis usado. No atribuyáis al artículo algo que no habéis leído ni a la estructura algo que no muestra. Debéis poder explicar vuestra propia ficha.
+
+## Plantilla: ocho campos
 
 - **Nombre:**
-- **Macromolécula asignada:**
-
----
+- **Macromolécula y entrada de referencia confirmadas:**
 
 ## 1. Identificación
 
 *Nombre de la macromolécula, organismo del que procede, entrada del PDB y año de
-depósito.*
+publicación de la entrada.*
 
 >
 
@@ -46,8 +79,7 @@ no se puede ver a esta resolución.*
 ## 3. Composición
 
 *Cuántas cadenas polipeptídicas hay depositadas y cuál es el estado oligomérico.
-Qué ligandos, cofactores, iones metálicos o moléculas de agua estructurales
-aparecen y dónde.*
+Distinguid las cadenas del archivo del ensamblado biológico. Indicad los ligandos, cofactores o iones relevantes y dónde aparecen; no hace falta enumerar todas las aguas.*
 
 >
 
@@ -62,7 +94,7 @@ proteína tiene un plegamiento con nombre reconocible, decidlo.*
 
 *Un sitio de unión, un centro activo o una interfaz, descrito **con residuos
 concretos** (número y tipo). «El sitio activo está en una hendidura» no vale:
-decid qué residuos la forman y qué papel hace cada uno.*
+indicad cadena, número y tipo de los residuos relevantes. Separad el contacto observado de la función atribuida por la bibliografía.*
 
 >
 
@@ -79,8 +111,6 @@ No repitáis el campo 5 — aquí se trata de la conexión, no de la descripció
 esta estructura, o que esta estructura no pueda contestar. Decid qué técnica del
 curso la respondería, por qué esa y no otra, **y qué no os diría**.*
 
-*Este campo es el que prepara directamente la Parte C del examen.*
-
 >
 
 ## 8. Referencia primaria
@@ -93,59 +123,8 @@ en la ficha del PDB.*
 
 ---
 
-# Ejemplo resuelto
+## Ejemplo de cómo acotar una conclusión
 
-**Se usa hemoglobina, que no está en la lista de reparto** precisamente para que
-sirva de ejemplo sin ser el trabajo de nadie. Es además la molécula que más
-trabajamos en clase, así que podéis juzgar la profundidad esperada.
+«En la entrada elegida se observa un ligando junto a los residuos que señalo en la figura. El artículo aporta evidencia de su papel funcional. Esta estructura permite describir esos contactos, pero no determina por sí sola la afinidad de unión en disolución; para estimarla propondría una medida de unión en condiciones definidas».
 
-**1. Identificación.** Hemoglobina humana en estado desoxi (estado T). *Homo
-sapiens*. PDB **2HHB**, depositada en 1984 (Fermi, Perutz, Shaanan & Fourme).
-
-**2. Método y calidad del modelo.** Difracción de rayos X, 1,74 Å. A esta
-resolución se resuelven las cadenas laterales con confianza y se ven aguas
-ordenadas, pero **el modelo es una única conformación promediada sobre todo el
-cristal**: no informa de la población de estados intermedios entre T y R, que es
-justamente lo que hace falta para describir la cooperatividad. Los extremos
-terminales de las cadenas suelen tener densidad más pobre y factores B altos.
-
-**3. Composición.** Cuatro cadenas polipeptídicas depositadas, dos entidades
-distintas: dos cadenas α y dos cadenas β. Tetrámero α₂β₂, que funcionalmente es
-un dímero de dímeros αβ. Cuatro grupos hemo, uno por cadena, cada uno con su
-Fe(II).
-
-**4. Arquitectura.** Todo hélice α: el plegamiento de globina, ocho hélices
-denominadas A–H por cadena, sin lámina β. El hemo se aloja en un bolsillo
-hidrofóbico entre las hélices E y F.
-
-**5. Sitio funcional.** El sitio de unión de O₂ es el Fe(II) del hemo. La
-**His F8** (His87 en α, His92 en β) es la histidina proximal y coordina el hierro
-por el quinto sitio, anclando el hemo a la hélice F. La **His E7** (His58 α,
-His63 β), distal, no coordina el hierro pero forma un enlace de hidrógeno con el
-O₂ unido y estorba estéricamente la geometría lineal que preferiría el CO, lo que
-reduce la afinidad relativa por CO en unos dos órdenes de magnitud respecto al
-hemo libre.
-
-**6. Estructura y función.** Al unirse el O₂, el Fe(II) entra en el plano del
-hemo y arrastra a la His F8 y con ella a toda la hélice F; ese desplazamiento se
-transmite a la interfaz α₁β₂, que es la que cambia entre los estados T y R. Como
-el cambio de una subunidad reorganiza la interfaz que comparten todas, la
-afinidad de las restantes aumenta: la cooperatividad no está en el sitio de
-unión, está en el acoplamiento mecánico entre subunidades.
-
-**7. Elección de técnica.** *Pregunta*: ¿cuánto tiempo tarda la transición T→R
-tras la unión del primer O₂, y hay intermedios poblados? La estructura
-cristalográfica no puede contestarlo: da los dos extremos, no el camino.
-*Técnica*: espectroscopía de absorción resuelta en el tiempo tras fotólisis de
-flash del complejo con CO, que aprovecha que el hemo cambia de espectro al ligar
-y permite seguir la cinética en la escala de microsegundos. *Qué no me diría*: da
-poblaciones y constantes de velocidad, no coordenadas — sabría *cuándo* pasa
-algo, no *qué* se mueve. Para eso haría falta cristalografía resuelta en el tiempo
-o RMN, y cada una con su propia limitación.
-
-**8. Referencia primaria.** Fermi, G., Perutz, M.F., Shaanan, B. & Fourme, R.
-(1984). The crystal structure of human deoxyhaemoglobin at 1.74 Å resolution.
-*Journal of Molecular Biology* 175(2), 159–174. Aporta el modelo refinado del
-estado T que sirve de referencia a toda la descripción posterior del cambio
-alostérico: la ficha del PDB da las coordenadas, el artículo da qué contactos
-concretos de la interfaz α₁β₂ se rompen al pasar a R.
+Este ejemplo muestra la separación entre observación, fuente e inferencia. En vuestra ficha hay que sustituir las expresiones generales por la entrada, cadenas, residuos y medida concretos que correspondan. No es una respuesta para copiar.

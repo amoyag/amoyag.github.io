@@ -1,0 +1,20 @@
+EMM 2026–27 — Caso estructural
+Actualizado: 14 de octubre de 2026.
+
+EMPEZAR
+1. Lee instrucciones.md o la versión web:
+   https://amoyag.github.io/teaching/emm-caso-estructural
+2. Consulta moleculas.md o https://amoyag.github.io/teaching/emm-moleculas
+3. Envía tres opciones ordenadas a Aurelio por mensaje privado de Campus Virtual
+   hasta el 20 de octubre a las 23:59 (Madrid). Indica nombre y PDB.
+4. Espera la confirmación de asignación antes del análisis detallado.
+5. Abre plantilla_caso.txt en Word, LibreOffice u otro editor; completa
+   progresivamente los ocho campos. Las instrucciones y rúbrica están en
+   instrucciones.md y evaluacion.md; se pueden leer con cualquier editor.
+6. Exporta un PDF de una o dos páginas, sin portada ni anexos.
+   Entrega: Campus Virtual, 10 de diciembre de 2026, 23:59 (Madrid).
+
+No tienes que entregar el cuaderno personal. El trabajo es individual;
+la dedicación orientativa total es de 20 horas a lo largo del bloque.
+La lista no registra reservas en tiempo real: confirma tu asignación con Aurelio.
+Si no puedes acceder al artículo o interpretar la estructura, consulta pronto.

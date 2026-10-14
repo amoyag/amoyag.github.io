@@ -1,0 +1,36 @@
+EMM 2026–27 — Ficha del caso estructural
+Nombre:
+Macromolécula confirmada:
+Entrada de referencia:
+
+1. IDENTIFICACIÓN
+Nombre, organismo, PDB y año de publicación de la entrada.
+
+2. MÉTODO Y CALIDAD
+Método; resolución con unidades (o por qué no procede); una limitación concreta.
+
+3. COMPOSICIÓN
+Cadenas depositadas frente a ensamblado biológico; ligandos/cofactores relevantes.
+
+4. ARQUITECTURA
+Estructura secundaria dominante y dominios.
+
+5. SITIO FUNCIONAL
+Sitio o interfaz con cadena, número y tipo de residuos relevantes.
+Distingue contacto observado de función apoyada en bibliografía.
+
+6. ESTRUCTURA Y FUNCIÓN
+Dos frases que conecten arquitectura y función sin repetir el campo anterior.
+
+7. PREGUNTA ABIERTA Y TÉCNICA
+Qué falta por saber; técnica adecuada y por qué; qué no permitiría concluir.
+
+8. REFERENCIA PRIMARIA
+Cita completa, DOI o enlace, y qué aporta respecto a la ficha del PDB.
+
+Uso de IA (si lo hubo):
+
+Integra una o dos vistas pequeñas solo si ayudan; identifica entrada, cadenas
+ y residuos. Máximo dos páginas con figuras y referencias; sin portada ni anexos.
+Exporta a PDF: Apellidos_Nombre_caso.pdf.
+Entrega: Campus Virtual, 10/12/2026 a las 23:59 (Madrid).
