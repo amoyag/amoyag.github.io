@@ -11,16 +11,16 @@ comments: false
 share: false
 ---
 
-Curso **2026–27**. Clases expositivas abiertas y trabajo práctico de diseño de proteínas. Esta página reúne el encargo del proyecto, las instrucciones de trabajo y las plantillas. Las entregas se realizan en el **Campus Virtual (CV)**.
+Curso **2026–27**. Esta página reúne el proyecto de equipo, las instrucciones de trabajo y las plantillas. Las entregas se realizan en el **Campus Virtual (CV)**.
 
-Actualización: **261008**. Las fechas se expresan como año, mes y día (YYMMDD); por ejemplo, 261113 significa 13 de noviembre de 2026.
+Actualización: **261017**. Las fechas se expresan como año, mes y día (YYMMDD).
+
+**Semana 2643:** lunes S17, redacción y entrega; martes S18, exposición y preguntas; miércoles S19, objeciones. [Instrucciones y materiales](#propuesta-de-diseño-del-equipo-durante-s17s19).
 
 **Contenido de esta página**
 
 * Índice
 {:toc}
-
-<!-- Contenido del proyecto procedente de campus/261004_proyecto_equipo.md del repositorio BIP. -->
 
 ## Proyecto de equipo de BIP
 
@@ -44,13 +44,13 @@ Se evalúa la calidad de la investigación y del razonamiento. **Un equipo sin c
 
 ### Cómo se desarrolla el trabajo
 
-**Se conservan los cuadernos de Colab de cada sesión como archivos separados.** Se trabaja sobre las plantillas preparadas por el profesor y se añaden los análisis, interpretaciones y decisiones. No hay que escribir un notebook desde cero ni reunir las sesiones en un segundo «cuaderno de evidencia». En S12 se localizan las regiones; en S14 se comprueba la especificación; en S16 se trabaja la selección y en S19 se revisan las decisiones tras las objeciones a la propuesta. La continuidad la dan una carpeta de evidencias y una bitácora breve que enlaza los cuadernos y resultados.
+**Se conservan los cuadernos de Colab de cada sesión como archivos separados.** Se trabaja sobre las plantillas y se añaden los análisis, interpretaciones y decisiones. No hay que escribir un notebook desde cero ni reunir las sesiones en un segundo «cuaderno de evidencia». En S12 se localizan las regiones; en S14 se comprueba la especificación; en S16 se trabaja la selección y en S17 se redacta la propuesta, en S18 se expone y en S19 se critica. Las revisiones se implementan después fuera del aula. La continuidad la dan una carpeta de evidencias y una bitácora breve que enlaza los cuadernos y resultados.
 
-Fuera del aula, el trabajo se organiza en tres tramos. **TE1** documenta la selección inicial y los descartes con los datos anteriores al filtro. **TE2** incorpora el rediseño de secuencia y la comparación entre el esqueleto diseñado y el modelo obtenido al predecir de nuevo su estructura. **TE3** caracteriza los candidatos y prepara la selección que se defenderá. Los enunciados detallados, los criterios de terminado y las rúbricas de los informes se comunicarán en S19, el 261021.
+Fuera del aula, el trabajo se organiza en tres tramos. **TE1** documenta la selección inicial y los descartes con los datos anteriores al filtro. **TE2** incorpora el rediseño de secuencia y la comparación entre el esqueleto diseñado y el modelo obtenido al predecir de nuevo su estructura. **TE3** caracteriza los candidatos y prepara la selección que se defenderá. Los enunciados detallados y las rúbricas de los informes corresponden al trabajo posterior. Su disponibilidad está prevista para el 261021; no son entregas de S17–S19.
 
 Antes de PR4 y PR5 se reservan al menos tres candidatos sin filtrar. Cada estudiante registra su decisión y su previsión antes de conocer el resultado. **La papeleta no se califica por acertar ni por fallar.** Lo que se evalúa posteriormente es la reconstrucción razonada de las decisiones.
 
-La bitácora permite reconstruir qué se analizó, quién lo hizo, con qué datos y por qué se tomó cada decisión. La IA puede utilizarse, declarando su uso y comprobando sus resultados por otra vía. **Las preguntas individuales se harán en la presentación del proyecto.** Durante el desarrollo, el trabajo individual se documenta por escrito en los cuadernos, la bitácora y los anexos; no se añaden entrevistas de seguimiento.
+La bitácora permite reconstruir qué se analizó, quién lo hizo, con qué datos y por qué se tomó cada decisión. La IA puede utilizarse, declarando su uso y comprobando sus resultados por otra vía. **Las preguntas individuales de la defensa final se harán en diciembre.** Durante el desarrollo, el trabajo individual se documenta por escrito en los cuadernos, la bitácora y los anexos; no se añaden entrevistas de seguimiento.
 
 ### Entregas y evaluación
 
@@ -58,7 +58,7 @@ Los puntos de esta tabla son puntos sobre los 100 de la asignatura. Se mantienen
 
 | Entrega | Fecha | Puntos de equipo | Puntos individuales |
 |---|---|---:|---:|
-| Propuesta de diseño | 261019–261020 | 10 | — |
+| Propuesta de diseño del equipo | 261019–261021 | 10 | — |
 | Informe de progreso 1, INF1 | 261113 | 8 | 7 |
 | Informe de progreso 2, INF2 | 261204 | 8 | 7 |
 | Defensa oral | 261217–261218 | 10 | 20 |
@@ -67,9 +67,9 @@ Los puntos de esta tabla son puntos sobre los 100 de la asignatura. Se mantienen
 
 | Fecha | Hito o entrega | Qué se presenta o conserva | Canal |
 |---|---|---|---|
-| 261019 | Propuesta de diseño y exposición (S17) | Documento de cuatro páginas más figuras; exposición de equipo | Presentación en clase; entrega del documento en CV pendiente de concretar |
-| 261020 | Objeción a otra propuesta y réplica (S18) | Plantilla de objeción del equipo emisor y respuesta oral | Actividad de S18; registro en CV por concretar |
-| 261021 | Publicación de TE1–TE3 e informes | Enunciados, criterios de terminado y rúbricas | CV |
+| 261019 | Redacción de la propuesta (S17) | PDF: máximo de cuatro páginas más figuras | CV al terminar la clase, 11:30 |
+| 261020 | Exposición y preguntas (S18) | 10 minutos de exposición y 4 de preguntas abiertas por equipo | En aula; sin entrega de Colab |
+| 261021 | Objeción y réplica (S19) | Plantilla del equipo emisor con síntesis de respuesta; 5 + 5 minutos por turno | PDF en CV al cierre, 11:30 |
 | 261112 | Corte de TE1 | Diez candidatos, panel prefiltro, descartes y reserva para PR4 | Evidencia en Drive y bitácora; se documenta en INF1 |
 | 261113 | INF1 de equipo y anexo individual | PDF de equipo y XLSX de la bitácora; un PDF de anexo por estudiante | Actividades separadas de equipo e individual en CV |
 | 261120 | PR4 | Papeletas individuales previas al filtro y resultados del control | Práctica presencial; canal de entrega según su convocatoria |
@@ -82,6 +82,59 @@ Los puntos de esta tabla son puntos sobre los 100 de la asignatura. Se mantienen
 La **propuesta** presenta el objetivo, los residuos y restricciones, la estrategia, el criterio de éxito y un modo de fallo que ese criterio podría pasar por alto. **INF1** documenta la selección inicial, el panel anterior al filtro y los descartes. **INF2** recoge el rediseño, los resultados del filtro, las decisiones posteriores y la justificación experimental. La **defensa** presenta la selección final y permite comprobar el razonamiento de cada integrante.
 
 Los talleres individuales TI1 y TI2 aportan dos puntos cada uno dentro de los siete puntos individuales de INF1; no se suman otra vez. TI3 es formativo. La nota individual depende de las evidencias y respuestas de cada persona. El detalle se recoge en la guía de evaluación del Campus.
+
+## Propuesta de diseño del equipo durante S17–S19
+
+**S17 · 261019: redacción y entrega. S18 · 261020: exposición y preguntas. S19 · 261021: objeción y réplica.**
+
+La propuesta concreta qué queréis modificar en PTP1B, qué evidencia sostiene esa decisión y cómo juzgaríais el resultado. Vale **10 puntos de equipo**: 9 por el contenido defendido en S18 y 1 por la objeción emitida en S19. Es distinta de INF1, que documentará después la selección de candidatos de TE1.
+
+### S17 Preparar y entregar la propuesta
+
+Trabajad en aula con el Colab S17 como guía y la plantilla editable «Propuesta de diseño del equipo». Recuperad vuestra ficha y los materiales de S12/S14 y S16 que sean pertinentes. No se exige llegar con la propuesta redactada ni generar nuevos candidatos.
+
+Entregad **un PDF por equipo al terminar S17, el 261019 a las 11:30, en CV**. Máximo de **cuatro páginas más figuras**, sin portada independiente. Las tablas, referencias y declaración de IA cuentan dentro de las cuatro páginas; las figuras y sus pies pueden ir después. Sed sucintos: el documento debe poder leerse para formular preguntas y objeciones. Nombre: `Propuesta_equipo_A_261019.pdf`, adaptando la letra.
+
+Contiene cinco apartados:
+
+1. Objetivo y especificación: estructura, numeración, residuos, restricciones y tolerancias; ficha vigente y cambios propuestos separados.
+2. Evidencia y estrategia: qué aporta cada fuente o estructura, qué no demuestra y por qué se elige esa estrategia frente a una alternativa.
+3. Criterio de éxito: aceptación computacional, hipótesis funcional, alternativa y experimento discriminante.
+4. Fallo anticipado: un fallo concreto que podría escapar al criterio general y cómo detectarlo.
+5. Panel y reglas de decisión: métricas pertinentes, etapas, conjuntos de ajuste/evaluación, umbrales y procedencia.
+
+Citad las fuentes utilizadas y declarad el uso de IA: qué se pidió, qué se comprobó y qué se decidió. No se necesitan resultados del pool propio ni evidencia posfiltro de candidatos reservados. El Colab es una ayuda de redacción: **no hay entrega adicional de notebook o JSON**.
+
+Los PDF entregados estarán disponibles para el alumnado de la asignatura en CV. Conservad esa primera versión: los cambios posteriores se identifican como revisiones.
+
+### S18 Exposición y preguntas
+
+Cada equipo presenta su propuesta durante **10 minutos** y responde preguntas durante **4 minutos**. Podéis apoyar la exposición con las figuras del documento; no se exige una entrega adicional de diapositivas. Preparad una explicación del argumento y de sus decisiones, sin leer el PDF entero.
+
+Las preguntas son abiertas: cualquier estudiante puede preguntar en las exposiciones de los otros equipos. Leed las propuestas y preparad preguntas sobre decisiones, evidencias y límites. La exposición y las respuestas permiten valorar los cuatro criterios de contenido de la rúbrica, con el PDF como referencia. No se añade nota por el número de preguntas formuladas. No se necesita Colab.
+
+### S19 Objeción y réplica
+
+Leed con detalle la propuesta asignada y preparad una objeción principal con la plantilla. Rotación: **A objeta a B, B a C y C a A**. Cada turno tiene **5 minutos de objeción y 5 de réplica**. La objeción señala un supuesto sin evidencia o un fallo que el criterio de éxito no detectaría, identifica la evidencia necesaria y justifica una revisión concreta.
+
+Entregad al cerrar la clase una plantilla PDF por equipo emisor, con una síntesis de la respuesta recibida. Solo se puntúa la objeción emitida, dentro de la nota del equipo emisor. La réplica no añade nota. No se necesita Colab.
+
+### Después de S19
+
+Revisad vuestra propuesta fuera del aula. Podéis incorporar una objeción, incorporarla parcialmente o mantener la decisión, siempre con una razón y evidencia. Registrad en la bitácora qué cambió, qué se comprobó y qué dato falta; conservad la versión anterior. No hay una entrega independiente ni una puntuación nueva por esta implementación. Una modificación de la ficha base sigue siendo una propuesta de cambio hasta su aprobación.
+
+La calificación completa se cierra **después de S19**, cuando están disponibles la propuesta, la exposición y respuestas y la objeción emitida. No depende de producir un resultado favorable ni de aceptar todas las críticas.
+
+### Materiales de S17–S19
+
+| Material | Descarga |
+|---|---|
+| Colab S17 para preparar la propuesta | [Abrir en Colab](https://colab.research.google.com/github/amoyag/amoyag.github.io/blob/master/files/bip/261017/S17_guia.ipynb) · [Descargar cuaderno](/files/bip/261017/S17_guia.ipynb) |
+| Propuesta de diseño del equipo | [Plantilla editable DOCX](/files/bip/261017/plantilla_propuesta_equipo.docx) · [PDF de consulta](/files/bip/261017/plantilla_propuesta_equipo.pdf) |
+| Objeción S19 | [Plantilla editable DOCX](/files/bip/261017/plantilla_objecion_S19.docx) · [PDF de consulta](/files/bip/261017/plantilla_objecion_S19.pdf) |
+| Rúbrica de propuesta | [Consultar criterios](/files/bip/261017/rubrica_propuesta.html) |
+
+Abrid el cuaderno en [Colab](https://colab.research.google.com/) con **Archivo → Subir cuaderno**. No necesita ZIP, instalación ni GPU. Descargad la plantilla DOCX y abridla en Google Docs o en vuestro editor; redactad una sola copia compartida y exportadla como PDF. No copiéis la misma respuesta al Colab y al documento.
 
 ### Organización de archivos y herramientas
 
@@ -139,7 +192,7 @@ Son operaciones de las herramientas de Google: [insertar enlaces](https://suppor
 
 ### Compartir documentos y conservar las entregas
 
-Los integrantes del equipo y el profesor tendrán permiso de **editor** en la bitácora y en los informes colectivos. En los anexos individuales, ese acceso corresponde al autor y al profesor. No hace falta habilitar acceso público. El permiso de editor permite al profesor consultar el historial; el permiso de lector o comentarista no basta para esa consulta.
+Los integrantes del equipo y el profesor tendrán permiso de **editor** en la bitácora y en los informes colectivos. En los anexos individuales, ese acceso corresponde al autor y al profesor. No hace falta habilitar acceso público. Los permisos de lector o comentarista no permiten consultar todo el historial de versiones.
 
 Al entregar, se conserva una **versión con nombre** en el documento de trabajo y en la bitácora, por ejemplo `INF1_261113`. El PDF entregado en CV fija el contenido evaluable y mantiene el enlace al original. No se reemplaza el original de trabajo por una copia nueva al final, porque se perdería la continuidad de su historial. Las revisiones posteriores se identifican aparte.
 
@@ -150,7 +203,7 @@ En cada fecha de informe se entregan:
 - **Por equipo:** el PDF colectivo y una exportación de la bitácora en XLSX, con enlace al original de Sheets. Los paneles, manifiestos y resultados exigidos se conservan en la carpeta de evidencias y se enlazan desde el informe.
 - **Por estudiante:** el PDF de su anexo individual, con enlaces al documento de trabajo y a sus evidencias. Las referencias a papeletas identifican únicamente las propias; no se publican respuestas ajenas.
 
-Las actividades de entrega se organizarán en el CV separando la parte colectiva de los anexos individuales. Se mantienen las fechas de INF1 e INF2 indicadas arriba.
+Entregad la parte colectiva y los anexos individuales en sus actividades separadas de CV. Se mantienen las fechas de INF1 e INF2 indicadas arriba.
 
 ### Plantillas del proyecto
 
