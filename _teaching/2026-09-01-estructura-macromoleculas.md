@@ -12,19 +12,11 @@ location: "Málaga, España"
 
 Curso **2026–27**. Estructura, propiedades y función de proteínas y ácidos nucleicos; métodos experimentales y computacionales para estudiarlos.
 
-## Caso estructural: comenzamos el 14 de octubre
-
-Trabajo individual durante el bloque II. Elegid tres moléculas por orden de preferencia y enviadlas por email a amoyag[en]uma.es hasta el **20 de octubre a las 23:59**. No uséis el correo del Campus Virtual. Las coincidencias se resuelven por sorteo; recibiréis confirmación de la asignación. La ficha final, de una o dos páginas, se entrega el **10 de diciembre a las 23:30**.
-
-- [Instrucciones, calendario y rúbrica del caso](/teaching/emm-caso-estructural)
-- [Lista de moléculas para elegir](/teaching/emm-moleculas)
-- [Descargar el paquete de trabajo (ZIP)](/files/emm-26-27/caso/EMM_caso_estructural.zip)
-
 ## Evaluación
 
 Examen final 70 %, informes de prácticas 15 %, cuestionarios 10 % y caso estructural 5 %. Los cuestionarios cuentan por completarlos en plazo, no por su puntuación.
 
-[Criterios de evaluación y rúbrica del caso](/teaching/emm-guia-evaluacion). Cuestionarios y entregas: Campus Virtual de la UMA.
+[Criterios de evaluación](/teaching/emm-guia-evaluacion). Cuestionarios y entregas: Campus Virtual de la UMA.
 
 ## Temario y calendario
 
