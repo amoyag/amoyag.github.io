@@ -11,9 +11,9 @@ comments: false
 share: false
 ---
 
-Curso **2026–27**. Instrucciones de trabajo y enlaces a los materiales del proyecto. Las entregas se realizan en el **Campus Virtual (CV)**.
+Curso **2026–27**. Instrucciones de trabajo y enlaces a los materiales del proyecto. INF1 e INF2 se entregan compartiendo el Google Docs original con el profesor como editor; las demás actividades siguen su convocatoria.
 
-**Semana 2643:** lunes S17, redacción y entrega; martes S18, exposición y preguntas; miércoles S19, objeciones. [Instrucciones y materiales](#propuesta-de-diseño-del-equipo-durante-s17s19).
+**Actualización 261126:** INF2 breve, sin dependencia de resultados propios de PR4. Entrega 261204. [Instrucciones](#qué-muestran-los-informes-y-los-anexos).
 
 * Índice
 {:toc}
@@ -50,14 +50,17 @@ La bitácora permite reconstruir qué se analizó, quién lo hizo, con qué dato
 
 ### Entregas y evaluación
 
-Los puntos de esta tabla son puntos sobre los 100 de la asignatura: **proyecto 70 y prácticas 30**.
+| Componente | Equipo | Individual | Total sobre 100 |
+|---|---:|---:|---:|
+| Propuesta y objeción | 10 | 0 | 10 |
+| INF1 | 8 | 7 | 15 |
+| INF2 | 3 | 2 | 5 |
+| Defensa | 5 | 20 | 25 |
+| Parcial experimental | 0 | 15 | 15 |
+| Prácticas | 0 | 30 | 30 |
+| **Total** | **26** | **74** | **100** |
 
-| Entrega | Fecha | Puntos de equipo | Puntos individuales |
-|---|---|---:|---:|
-| Propuesta de diseño del equipo | 261019–261021 | 10 | — |
-| Informe de progreso 1, INF1 | 261113 | 8 | 7 |
-| Informe de progreso 2, INF2 | 261204 | 8 | 7 |
-| Defensa oral | 261217–261218 | 10 | 20 |
+Proyecto 55 puntos, parcial experimental 15 y prácticas 30. Revisión 261126.
 
 **Calendario del trabajo de proyecto.** Las fechas de corte de TE1–TE3 indican cuándo debe estar reunida la evidencia; esos tramos no tienen una entrega independiente en CV. Las horas de cierre de las actividades de CV se consultan en cada tarea.
 
@@ -67,17 +70,41 @@ Los puntos de esta tabla son puntos sobre los 100 de la asignatura: **proyecto 7
 | 261020 | Exposición y preguntas (S18) | 10 minutos de exposición y 4 de preguntas abiertas por equipo | En aula; sin entrega de Colab |
 | 261021 | Objeción y réplica (S19) | Plantilla del equipo emisor con síntesis de respuesta; 5 + 5 minutos por turno | PDF en CV al cierre, 11:30 |
 | 261112 | Corte de TE1 | Diez candidatos, panel prefiltro, descartes y reserva para PR4 | Evidencia en Drive y bitácora; se documenta en INF1 |
-| 261113 | INF1 de equipo y anexo individual | PDF de equipo y XLSX de la bitácora; un PDF de anexo por estudiante | Actividades separadas de equipo e individual en CV |
-| 261120 | PR4 | Papeletas individuales previas al filtro y resultados del control | Práctica presencial; canal de entrega según su convocatoria |
-| 261201 | Corte de TE2 | Rediseño, autoconsistencia y reserva para PR5 | Evidencia en Drive y bitácora; se documenta en INF2 |
-| 261204 | INF2 de equipo y anexo individual | PDF de equipo y XLSX de la bitácora; un PDF de anexo por estudiante | Actividades separadas de equipo e individual en CV |
+| 261113 | INF1 de equipo y anexo individual | Google Docs originales separados y bitácora | Profesor como editor, sin PDF/XLSX en Campus |
+| 261120 | PR4 | Caso independiente lipasa/ESM2 | Entrega individual de práctica según convocatoria; no filtra el proyecto |
+| 261201 | Corte de TE2 | Revisión de evidencia, comparación propia o PR2, decisiones y reserva PR5 | Bitácora; se documenta en INF2 |
+| 261204 | INF2 de equipo y anexo individual | Actualización breve, 3 + 2 puntos | Google Docs originales con profesor como editor |
 | 261210 | Corte de TE3 | Caracterización y propuesta de los tres candidatos para la defensa | Evidencia en Drive y bitácora; se presenta en PR5 y la defensa |
 | 261211 | PR5 | Control de candidatos reservados y congelación de los tres que se defenderán | Práctica presencial; canal de entrega según su convocatoria |
 | 261217–261218 | Defensa oral | Selección final, evidencia, límites y respuestas individuales | Presentación en clase |
 
-La **propuesta** presenta el objetivo, los residuos y restricciones, la estrategia, el criterio de éxito y un modo de fallo que ese criterio podría pasar por alto. **INF1** documenta la selección inicial, el panel anterior al filtro y los descartes. **INF2** recoge el rediseño, los resultados del filtro, las decisiones posteriores y la justificación experimental. La **defensa** presenta la selección final y permite comprobar el razonamiento de cada integrante.
+La **propuesta** presenta el objetivo, los residuos y restricciones, la estrategia, el criterio de éxito y un modo de fallo que ese criterio podría pasar por alto. **INF1** documenta la selección inicial, el panel anterior al filtro y los descartes. **INF2** actualiza las decisiones desde INF1 y demuestra interpretación de autoconsistencia propia disponible o de PR2, sin nuevas inferencias ni preguntas experimentales. La **defensa** presenta la selección final y permite comprobar el razonamiento de cada integrante.
 
 Los talleres individuales TI1 y TI2 aportan dos puntos cada uno dentro de los siete puntos individuales de INF1; no se suman otra vez. TI3 es formativo. La nota individual depende de las evidencias y respuestas de cada persona. El detalle se recoge en la guía de evaluación del Campus.
+
+<a id="rubrica-inf2"></a>
+
+## Rúbrica INF2
+
+INF2: **5 puntos sobre 100 de la asignatura**, 3 colectivos y 2 individuales. Entrega 261204 en Google Docs original, profesor como editor. Se aplica a las dos vías admitidas con el mismo máximo: resultados propios disponibles o comparación metodológica de PR2, incluida la tabla de apoyo de la plantilla.
+
+| Criterio | Máximo | Evidencia para el logro completo |
+|---|---:|---|
+| Cambios desde INF1 | 1 | Candidatos/versiones, registros y evidencia localizables; explica cambios o mantenimiento y distingue realizado de pendiente. |
+| Interpretación de autoconsistencia | 1 | Procedencia y modelos, correspondencia/cobertura, ajuste/evaluación, unidades y criterio explícitos; comparación correcta y límites; separa PR2 de PTP1B. |
+| Decisiones y siguiente comprobación | 1 | Decisiones sobre el proyecto justificadas frente a alternativas; identifica la evidencia ausente y su efecto; respeta las reservas. |
+| Decisión individual con evidencia | 1 | Aportación propia, registro/fecha, dato e interpretación reconstruibles; transferencia al proyecto explícita si procede. |
+| Comparación propia/equipo | 0,5 | Decisión colectiva concreta, alternativa y razón del acuerdo o desacuerdo, sin inventar deliberaciones sobre casos comunes. |
+| Mantener o revisar | 0,5 | Explica el criterio actual y el dato que justificaría mantenerlo o modificarlo. |
+
+Cada criterio recibe 0 %, 25 %, 50 %, 75 % o 100 % de su máximo: ausencia de evidencia; evidencia incipiente/genérica; logro parcial; logro con omisión menor; logro completo. Se suman los puntos; no hay una penalización extra por el mismo defecto ni mínimos eliminatorios nuevos.
+
+No se puntúa por obtener candidatos aceptados, acertar un pronóstico, disponer de GPU, generar más datos ni repetir el informe anterior. La ausencia de resultados propios de PR4 no penaliza: aquella práctica no los producía. Usar la tabla proporcionada permite el mismo máximo si hay análisis propio. Una ausencia de evidencia se declara y se razona, pero no se convierte en una medición.
+
+No se exigen papeletas del control de proyecto de PR4 ni un pronóstico retroactivo. Una decisión nueva se fecha ahora; una reconstrucción se identifica como tal y enlaza su fuente. El historial apoya trazabilidad, no mide dedicación ni equivale por sí solo a prueba de autoría. Un documento redactado primero fuera de Docs puede conservar sus originales como evidencia; no debe fabricar historial.
+
+La reutilización de PR2/PR4 aporta evidencia al argumento de INF2; no se recalifica SUP2/SUP4 ni se duplica su nota. No se pide síntesis experimental ni las tres preguntas de JACS. Declarar IA y documentar una operación computacional propia se valora dentro de los criterios existentes, sin puntos ni entregas adicionales.
+
 
 ## Propuesta de diseño del equipo durante S17–S19
 
@@ -157,24 +184,27 @@ Las columnas «Previsión del filtro» y «Resultado del filtro y fecha» se com
 
 ### Qué muestran los informes y los anexos
 
-Los informes se redactan sobre la evidencia conservada. Las plantillas mantienen un orden común y señalan los criterios de evaluación junto al apartado correspondiente. Se sustituyen los campos entre corchetes por respuestas concretas, conservando los títulos. La longitud de la plantilla no fija un máximo de páginas: se escribe lo necesario para justificar las decisiones y se enlazan los registros extensos.
+INF1 conserva sus criterios y peso (8 + 7); los 7 individuales incluyen TI1/TI2 (2 + 2), decisión propia (2) y comparación (1).
 
-**INF1 de equipo** documenta el recorrido hasta los diez candidatos, interpreta el panel prefiltro, justifica los descartes e identifica la reserva para PR4. **INF2 de equipo** explica el uso de los resultados de PR4, la autoconsistencia con su convención, las decisiones posteriores y las tres cuestiones experimentales. Cada informe incluye una tabla breve de contribuciones: nombre, aportación concreta y evidencia. No se asignan porcentajes de participación.
+**INF2 se entrega el 261204 y vale 5 puntos: 3 de equipo y 2 individuales.** Es una actualización breve desde INF1. No exige nuevas ejecuciones de modelos, resultados propios obtenidos en PR4, papeletas inexistentes ni resultados de TE3, TI3 o PR5. No hay límite obligatorio de páginas; se enlaza la evidencia y se evita repetir INF1.
 
-**El anexo individual se escribe y entrega por separado.** Cada estudiante entrega su PDF de anexo individual en una actividad individual de CV **el mismo día que el equipo entrega el informe correspondiente**: 261113 para INF1 y 261204 para INF2. Puede tratar el mismo candidato que otro integrante, pero debe permitir reconocer la operación y el razonamiento propios. Una afirmación como «ayudé con los cálculos» se concreta indicando qué entrada se utilizó, qué se comprobó, dónde está el resultado y cómo se interpretó.
+#### Informe colectivo — 3 puntos
 
-| Anexo | Evidencia individual que se solicita | Puntos |
-|---|---|---:|
-| INF1 | Originales de TI1 y TI2, enlazados sin repetirlos ni volver a puntuarlos | 2 + 2 |
-| INF1 | Reconstrucción de una decisión propia aplicada al proyecto, transfiriendo lo aprendido en TI1/TI2 | 2 |
-| INF1 | Comparación con la decisión del equipo, alternativa y razón del acuerdo o desacuerdo | 1 |
-| INF2 | Papeletas y registros propios originales, identificables y concordantes | 2 |
-| INF2 | Contraste entre previsión y resultado del filtro | 1,5 |
-| INF2 | Síntesis experimental personal vinculada al candidato | 1 |
-| INF2 | Comparación con el criterio del equipo y una alternativa | 1,5 |
-| INF2 | Cambio de criterio o mantenimiento justificado | 1 |
+1. **Cambios desde INF1 — 1 punto.** Candidatos y versiones, evidencia disponible, correcciones y decisiones nuevas o mantenidas, con enlaces a las entradas de bitácora. No es necesario esperar a una devolución de INF1 para documentar lo realizado; una revisión posterior se identifica con su fecha.
+2. **Interpretación de autoconsistencia — 1 punto.** Utilizad resultados propios disponibles o una comparación de PR2. Si no podéis recuperar PR2, utilizad la tabla de apoyo incluida en la plantilla colectiva. Identificad procedencia, modelos comparados, correspondencia y cobertura, conjuntos de ajuste y evaluación, valores, unidades, criterio y límites. Basta una comparación razonada; no se exige volver a analizar todos los candidatos ni ejecutar modelos. Los datos de PR2 demuestran comprensión del método, no autoconsistencia de PTP1B. Los resultados de lipasa/ESM2 no sustituyen esta comparación estructural.
+3. **Decisiones y siguiente comprobación — 1 punto.** Qué candidatos del proyecto se conservan, descartan o dejan pendientes; qué dato sostiene cada decisión y qué comprobación falta. Enlazad el registro completo si existe. Identificad los reservados para PR5 sin filtrar; no se piden resultados de ese control en INF2. La selección puede seguir siendo provisional. «Falta dato» debe especificar cuál y qué decisión impide tomar.
 
-Entre ambos anexos, cada estudiante documenta **una operación computacional propia**, con entrada, herramienta, parámetro relevante, salida e interpretación. Puede hacerse sobre datos pregenerados y se valora dentro de los criterios existentes. No añade otra entrega. En INF1 no se exigen resultados del filtro sobre los candidatos del proyecto; en INF2 no se exigen TI3 ni PR5, posteriores a su entrega. No hace falta inventar un desacuerdo o un error para justificar una decisión.
+#### Anexo individual — 2 puntos
+
+1. **Decisión propia con evidencia — 1 punto.** Reconstruid una decisión documentada del proyecto, PR2 o PR4. Indicad qué hicisteis, la evidencia original y su fecha, la interpretación y la relación con vuestro proyecto. En PR4, el score ESM2 y T50 pertenecen a lipasa; no son el filtro estructural de PTP1B. Si usáis ahora la tabla de apoyo, registrad una decisión nueva con fecha actual. Una reconstrucción posterior se identifica como tal; no se inventa una previsión previa.
+2. **Comparación con el equipo — 0,5 puntos.** Relacionad vuestro criterio con una decisión concreta del proyecto y una alternativa. Si el caso individual es PR2 o PR4, explicad qué criterio se transfiere y cuál no; no inventéis que el equipo tomó una decisión sobre la lipasa.
+3. **Qué mantengo o reviso — 0,5 puntos.** Razón del cambio o mantenimiento y dato que resolvería la incertidumbre. No es necesario haber acertado ni haberse equivocado.
+
+Se eliminan las tres respuestas experimentales colectivas y la síntesis experimental individual: su cobertura pasa al parcial experimental. Se conserva la distinción entre aceptación computacional, hipótesis funcional y validación experimental. Referenciad la operación computacional propia ya documentada en INF1, PR2 o PR4; si falta, documentad una ahora con datos disponibles. Declarad contribuciones, ayudas e IA. No hay una entrega adicional ni puntos por repetir una práctica.
+
+#### Relación con las prácticas
+
+PR4/SUP4 es el caso independiente de lipasa/ESM2 y mantiene su evaluación propia. INF2 no queda bloqueado por PR4. TE2 documenta ahora revisión de evidencia, interpretación metodológica y decisiones, sin exigir supervivientes de PR4. TE3, PR5 y defensa conservan su función de cierre posterior. Los candidatos reservados no se filtran para rellenar INF2. No se exige un candidato aceptado para obtener la máxima nota si el razonamiento y la evidencia lo justifican.
 
 ### Cómo enlazar un Colab en el informe
 
@@ -182,24 +212,21 @@ Entre ambos anexos, cada estudiante documenta **una operación computacional pro
 2. En **Compartir**, añadid la cuenta del profesor con acceso al cuaderno; para leer el Colab basta el permiso de lector. Copiad el enlace a vuestra copia, no al original vacío del profesor.
 3. En Google Docs, seleccionad un texto descriptivo, como «S12 del equipo B, bloque 2», y usad **Insertar → Enlace**. Pegad el enlace. En Sheets podéis pegar la URL en la celda de evidencia y añadir el apartado y el archivo relevante.
 4. Indicad junto al enlace la versión o fecha, el apartado o celda identificable y el resultado que utilizáis. No basta un enlace general a toda la carpeta.
-5. Comprobad el acceso desde otra cuenta autorizada. Un enlace correcto no concede permisos automáticamente. Revisad también que los enlaces sigan funcionando en el PDF entregado.
+5. Comprobad el acceso desde otra cuenta autorizada. Un enlace correcto no concede permisos automáticamente. Revisad también que los enlaces sigan funcionando en el documento compartido.
 
 Son operaciones de las herramientas de Google: [insertar enlaces](https://support.google.com/docs/answer/45893?hl=es) y [compartir notebooks de Colab](https://research.google.com/colaboratory/faq.html?hl=es).
 
 ### Compartir documentos y conservar las entregas
 
-Los integrantes del equipo y el profesor tendrán permiso de **editor** en la bitácora y en los informes colectivos. En los anexos individuales, ese acceso corresponde al autor y al profesor. No hace falta habilitar acceso público. Los permisos de lector o comentarista no permiten consultar todo el historial de versiones.
+1. Conservad el Google Docs original del informe colectivo y el original de cada anexo individual. Si ya habéis empezado, adaptad esos documentos: no creéis copias nuevas para entregar ni borréis el historial.
+2. En **Compartir**, añadid **amoyag@uma.es** con el rol **Editor** y notificad al profesor. Si ya aparece como lector o comentador, cambiad el permiso y guardad. Compartid también la bitácora de Google Sheets como editor y comprobad los permisos de las evidencias enlazadas.
+3. Identificad equipo, autoría y fecha; conservad una versión con nombre, por ejemplo `INF2_261204`, del informe y de la bitácora. Las revisiones posteriores deben distinguirse de esa versión.
+4. El informe colectivo y cada anexo individual son documentos separados. Los anexos solo necesitan acceso de su autor y del profesor; no se pide acceso público.
+5. **La entrega consiste en dar acceso de editor al original. No se entrega PDF ni XLSX en una tarea de Campus ni por correo adjunto.** No esperéis a que se abra una tarea. Si el profesor ya tiene acceso, conservadlo y notificad que la versión final está preparada mediante la notificación del documento o un mensaje con su enlace, sin adjuntos.
 
-Al entregar, se conserva una **versión con nombre** en el documento de trabajo y en la bitácora, por ejemplo `INF1_261113`. El PDF entregado en CV fija el contenido evaluable y mantiene el enlace al original. No se reemplaza el original de trabajo por una copia nueva al final, porque se perdería la continuidad de su historial. Las revisiones posteriores se identifican aparte.
+Estas instrucciones sustituyen las indicaciones anteriores de entrega de INF1/INF2 por Campus. No cambian el canal de las prácticas ni de otras actividades. INF2 mantiene la fecha **261204**; no se establece aquí una hora de cierre adicional.
 
-Google permite consultar cambios y editores desde el historial de versiones. **El historial muestra actividad de edición, no demuestra por sí solo la calidad de la aportación ni recoge todo el trabajo fuera del documento.** Justificad vuestras aportaciones con evidencias y decisiones concretas; el número de ediciones no sustituye esa explicación. [Ayuda de Google sobre el historial](https://support.google.com/docs/answer/190843?hl=es).
-
-En cada fecha de informe se entregan:
-
-- **Por equipo:** el PDF colectivo y una exportación de la bitácora en XLSX, con enlace al original de Sheets. Los paneles, manifiestos y resultados exigidos se conservan en la carpeta de evidencias y se enlazan desde el informe.
-- **Por estudiante:** el PDF de su anexo individual, con enlaces al documento de trabajo y a sus evidencias. Las referencias a papeletas identifican únicamente las propias; no se publican respuestas ajenas.
-
-Entregad la parte colectiva y los anexos individuales en sus actividades separadas de CV. Se mantienen las fechas de INF1 e INF2 indicadas arriba.
+El historial apoya la trazabilidad, pero no mide dedicación ni recoge todo el trabajo realizado fuera del documento. Conservad los originales externos si los hay.
 
 ### Plantillas del proyecto
 
